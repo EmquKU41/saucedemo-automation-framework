@@ -9,7 +9,7 @@ test('shopping cart badge value', async ({ page }) => { //check if after adding 
     //login
     await login(page);
 
-    //######CODE#######
+    //######MAIN#######
 
     //find the class called "inventory_item" that contains text "Backpack"
     const inventoryItem = page.locator('.inventory_item', {hasText: "Backpack"});
