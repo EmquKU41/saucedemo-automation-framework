@@ -43,6 +43,7 @@ tests/
 
 screenshots/
 │── report.png
+
 playwright.config.ts
 package.json
 README.md
