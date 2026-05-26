@@ -62,9 +62,9 @@ npx playwright install
 
 ---
 
-## running tests
+## Running tests
 
-run all tests:
+un all tests:
 
 ```bash
 npx playwright test
